@@ -63,16 +63,22 @@ while (playAgain == true) {
     bool answerCheck = true;
     while (answerCheck == true) {
         string playAgainInput = Console.ReadLine();
-        if (playAgainInput == "y" || playAgainInput == "Y") {
-            answerCheck = false;
-            continue;
-        } else if (playAgainInput == "n" || playAgainInput == "N"){
-            playAgain = false;
-            answerCheck = false;
-        } else {
-            Console.WriteLine("I do not understand. Please answer with 'Y' for yes, or 'N' for no.");
-            answerCheck = true;
-        }
+        playAgainInput = playAgainInput.ToLower();
+        switch (playAgainInput) {
+            case "y":
+            case "yes":
+                answerCheck = false;
+                break;
+            case "n":
+            case "no":
+                answerCheck = false;
+                playAgain = false;
+                break;
+            default:
+                Console.WriteLine("I do not understand. Please answer with 'Y' for yes, or 'N' for no.");
+                answerCheck = true;
+                break;
+            }
     }
 }
 Console.WriteLine("Adios!");
