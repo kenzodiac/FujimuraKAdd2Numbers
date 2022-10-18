@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kennethfujimura/Documents/Code Stack Projects/Level 1/Homework/KFujimuraGitHubChallenge/KFujimuraAdd2Numbers/KFujimuraAdd2Numbers.csproj": {}
+    "/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraAdd2Numbers/KFujimuraAdd2Numbers.csproj": {}
   },
   "projects": {
-    "/Users/kennethfujimura/Documents/Code Stack Projects/Level 1/Homework/KFujimuraGitHubChallenge/KFujimuraAdd2Numbers/KFujimuraAdd2Numbers.csproj": {
+    "/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraAdd2Numbers/KFujimuraAdd2Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kennethfujimura/Documents/Code Stack Projects/Level 1/Homework/KFujimuraGitHubChallenge/KFujimuraAdd2Numbers/KFujimuraAdd2Numbers.csproj",
+        "projectUniqueName": "/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraAdd2Numbers/KFujimuraAdd2Numbers.csproj",
         "projectName": "KFujimuraAdd2Numbers",
-        "projectPath": "/Users/kennethfujimura/Documents/Code Stack Projects/Level 1/Homework/KFujimuraGitHubChallenge/KFujimuraAdd2Numbers/KFujimuraAdd2Numbers.csproj",
+        "projectPath": "/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraAdd2Numbers/KFujimuraAdd2Numbers.csproj",
         "packagesPath": "/Users/kennethfujimura/.nuget/packages/",
-        "outputPath": "/Users/kennethfujimura/Documents/Code Stack Projects/Level 1/Homework/KFujimuraGitHubChallenge/KFujimuraAdd2Numbers/obj/",
+        "outputPath": "/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraAdd2Numbers/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kennethfujimura/.nuget/NuGet/NuGet.Config"

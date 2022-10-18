@@ -13,16 +13,16 @@ bool playAgain = true;
 while (playAgain == true) {
     //variable declaration
     bool isConverted1 = false;
-    int num1 = 0;
+    decimal num1 = 0;
 
     bool isConverted2 = false;
-    int num2 = 0;
+    decimal num2 = 0;
 
     //first number input prompt with data verification
     Console.WriteLine("Enter the first number you wish to add: ");
     while (!isConverted1) {
         string stringInput = Console.ReadLine();
-        bool isNumber = Int32.TryParse(stringInput, out num1);
+        bool isNumber = Decimal.TryParse(stringInput, out num1);
 
         if (isNumber == true){
             isConverted1 = true;
@@ -35,7 +35,7 @@ while (playAgain == true) {
     Console.WriteLine("Enter the second number you wish to add: ");
     while (!isConverted2) {
         string stringInput = Console.ReadLine();
-        bool isNumber = Int32.TryParse(stringInput, out num2);
+        bool isNumber = Decimal.TryParse(stringInput, out num2);
 
         if (isNumber == true){
             isConverted2 = true;
@@ -45,7 +45,7 @@ while (playAgain == true) {
     }
 
     //sum calculation
-    int sum = num1 + num2;
+    decimal sum = num1 + num2;
 
     //display result to user
     Console.WriteLine("The sum of your two numbers is: " + sum);
