@@ -12,24 +12,19 @@ Console.WriteLine("Let's add two numbers!");
 bool playAgain = true;
 while (playAgain == true) {
     //variable declaration
-    string stringNum1;
-    string stringNum2;
-
     bool isConverted1 = false;
-    bool isNumber1;
     int num1 = 0;
 
     bool isConverted2 = false;
-    bool isNumber2;
     int num2 = 0;
 
     //first number input prompt with data verification
     Console.WriteLine("Enter the first number you wish to add: ");
     while (!isConverted1) {
-        stringNum1 = Console.ReadLine();
-        isNumber1 = Int32.TryParse(stringNum1, out num1);
+        string stringInput = Console.ReadLine();
+        bool isNumber = Int32.TryParse(stringInput, out num1);
 
-        if (isNumber1 == true){
+        if (isNumber == true){
             isConverted1 = true;
         } else {
             Console.WriteLine("Invalid entry. Please enter a whole number or 'Integer'.");
@@ -39,10 +34,10 @@ while (playAgain == true) {
     //second number input prompt with data verification
     Console.WriteLine("Enter the second number you wish to add: ");
     while (!isConverted2) {
-        stringNum2 = Console.ReadLine();
-        isNumber2 = Int32.TryParse(stringNum2, out num2);
+        string stringInput = Console.ReadLine();
+        bool isNumber = Int32.TryParse(stringInput, out num2);
 
-        if (isNumber2 == true){
+        if (isNumber == true){
             isConverted2 = true;
         } else {
             Console.WriteLine("Invalid entry. Please enter a whole number or 'Integer'.");
@@ -59,8 +54,7 @@ while (playAgain == true) {
     Console.WriteLine("Would you like to add together another pair of numbers? Y/N");
     bool answerCheck = true;
     while (answerCheck == true) {
-        string playAgainInput = Console.ReadLine();
-        playAgainInput = playAgainInput.ToLower();
+        string playAgainInput = Console.ReadLine().ToLower();
         switch (playAgainInput) {
             case "y":
             case "yes":
