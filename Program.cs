@@ -1,8 +1,8 @@
 ﻿//Kenneth Fujimura
-//09-12-2022 @ 9:48pm
-//Mini Challenge # 2 - Add 2 Numbers
+//10-18-2022
+//GitHub Challenge # 2 - Add 2 Numbers
 //Console program greets the user, takes in two numbers as inputs, converts those numbers to integers, adds the numbers, and returns the sum value to the user.
-//Peer Review by: see mini challenge #1
+//Peer Review by: 
 
 
 Console.Clear();
@@ -48,9 +48,6 @@ while (playAgain == true) {
             Console.WriteLine("Invalid entry. Please enter a whole number or 'Integer'.");
         }
     }
-    //old string-to-number conversion method from old code:
-    //int num1 = Convert.ToInt32(stringNum1);
-    //int num2 = Convert.ToInt32(stringNum2);
 
     //sum calculation
     int sum = num1 + num2;
