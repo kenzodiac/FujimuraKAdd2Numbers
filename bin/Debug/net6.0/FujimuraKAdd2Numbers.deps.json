@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "KFujimuraAdd2Numbers/1.0.0": {
+      "FujimuraKAdd2Numbers/1.0.0": {
         "runtime": {
-          "KFujimuraAdd2Numbers.dll": {}
+          "FujimuraKAdd2Numbers.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "KFujimuraAdd2Numbers/1.0.0": {
+    "FujimuraKAdd2Numbers/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

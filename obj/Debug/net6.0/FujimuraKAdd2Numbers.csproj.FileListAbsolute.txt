@@ -1,0 +1,30 @@
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1/Homework/FujimuraKGitHubChallenge/FujimuraKAdd2Numbers/obj/Debug/net6.0/FujimuraKAdd2Numbers.csproj.AssemblyReference.cache
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1/Homework/FujimuraKGitHubChallenge/FujimuraKAdd2Numbers/obj/Debug/net6.0/FujimuraKAdd2Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1/Homework/FujimuraKGitHubChallenge/FujimuraKAdd2Numbers/obj/Debug/net6.0/FujimuraKAdd2Numbers.AssemblyInfoInputs.cache
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1/Homework/FujimuraKGitHubChallenge/FujimuraKAdd2Numbers/obj/Debug/net6.0/FujimuraKAdd2Numbers.AssemblyInfo.cs
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1/Homework/FujimuraKGitHubChallenge/FujimuraKAdd2Numbers/obj/Debug/net6.0/FujimuraKAdd2Numbers.csproj.CoreCompileInputs.cache
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1/Homework/FujimuraKGitHubChallenge/FujimuraKAdd2Numbers/bin/Debug/net6.0/FujimuraKAdd2Numbers
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1/Homework/FujimuraKGitHubChallenge/FujimuraKAdd2Numbers/bin/Debug/net6.0/FujimuraKAdd2Numbers.deps.json
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1/Homework/FujimuraKGitHubChallenge/FujimuraKAdd2Numbers/bin/Debug/net6.0/FujimuraKAdd2Numbers.runtimeconfig.json
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1/Homework/FujimuraKGitHubChallenge/FujimuraKAdd2Numbers/bin/Debug/net6.0/FujimuraKAdd2Numbers.dll
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1/Homework/FujimuraKGitHubChallenge/FujimuraKAdd2Numbers/bin/Debug/net6.0/FujimuraKAdd2Numbers.pdb
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1/Homework/FujimuraKGitHubChallenge/FujimuraKAdd2Numbers/obj/Debug/net6.0/FujimuraKAdd2Numbers.dll
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1/Homework/FujimuraKGitHubChallenge/FujimuraKAdd2Numbers/obj/Debug/net6.0/refint/FujimuraKAdd2Numbers.dll
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1/Homework/FujimuraKGitHubChallenge/FujimuraKAdd2Numbers/obj/Debug/net6.0/FujimuraKAdd2Numbers.pdb
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1/Homework/FujimuraKGitHubChallenge/FujimuraKAdd2Numbers/obj/Debug/net6.0/FujimuraKAdd2Numbers.genruntimeconfig.cache
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1/Homework/FujimuraKGitHubChallenge/FujimuraKAdd2Numbers/obj/Debug/net6.0/ref/FujimuraKAdd2Numbers.dll
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/FujimuraKGitHubChallenge/FujimuraKAdd2Numbers/bin/Debug/net6.0/FujimuraKAdd2Numbers
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/FujimuraKGitHubChallenge/FujimuraKAdd2Numbers/bin/Debug/net6.0/FujimuraKAdd2Numbers.deps.json
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/FujimuraKGitHubChallenge/FujimuraKAdd2Numbers/bin/Debug/net6.0/FujimuraKAdd2Numbers.runtimeconfig.json
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/FujimuraKGitHubChallenge/FujimuraKAdd2Numbers/bin/Debug/net6.0/FujimuraKAdd2Numbers.dll
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/FujimuraKGitHubChallenge/FujimuraKAdd2Numbers/bin/Debug/net6.0/FujimuraKAdd2Numbers.pdb
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/FujimuraKGitHubChallenge/FujimuraKAdd2Numbers/obj/Debug/net6.0/FujimuraKAdd2Numbers.csproj.AssemblyReference.cache
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/FujimuraKGitHubChallenge/FujimuraKAdd2Numbers/obj/Debug/net6.0/FujimuraKAdd2Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/FujimuraKGitHubChallenge/FujimuraKAdd2Numbers/obj/Debug/net6.0/FujimuraKAdd2Numbers.AssemblyInfoInputs.cache
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/FujimuraKGitHubChallenge/FujimuraKAdd2Numbers/obj/Debug/net6.0/FujimuraKAdd2Numbers.AssemblyInfo.cs
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/FujimuraKGitHubChallenge/FujimuraKAdd2Numbers/obj/Debug/net6.0/FujimuraKAdd2Numbers.csproj.CoreCompileInputs.cache
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/FujimuraKGitHubChallenge/FujimuraKAdd2Numbers/obj/Debug/net6.0/FujimuraKAdd2Numbers.dll
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/FujimuraKGitHubChallenge/FujimuraKAdd2Numbers/obj/Debug/net6.0/refint/FujimuraKAdd2Numbers.dll
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/FujimuraKGitHubChallenge/FujimuraKAdd2Numbers/obj/Debug/net6.0/FujimuraKAdd2Numbers.pdb
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/FujimuraKGitHubChallenge/FujimuraKAdd2Numbers/obj/Debug/net6.0/FujimuraKAdd2Numbers.genruntimeconfig.cache
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/FujimuraKGitHubChallenge/FujimuraKAdd2Numbers/obj/Debug/net6.0/ref/FujimuraKAdd2Numbers.dll
