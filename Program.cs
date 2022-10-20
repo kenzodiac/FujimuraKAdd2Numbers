@@ -1,5 +1,5 @@
 ﻿//Kenneth Fujimura
-//10-18-2022
+//10-20-2022
 //GitHub Challenge # 2 - Add 2 Numbers
 //Console program greets the user, takes in two numbers as inputs, converts those numbers to integers, adds the numbers, and returns the sum value to the user.
 //Peer Review by:
