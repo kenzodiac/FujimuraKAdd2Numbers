@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/FujimuraKGitHubChallenge/FujimuraKAdd2Numbers/FujimuraKAdd2Numbers.csproj": {}
+    "/Users/manuel/Documents/GitRepository/FujimuraKAdd2Numbers/FujimuraKAdd2Numbers.csproj": {}
   },
   "projects": {
-    "/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/FujimuraKGitHubChallenge/FujimuraKAdd2Numbers/FujimuraKAdd2Numbers.csproj": {
+    "/Users/manuel/Documents/GitRepository/FujimuraKAdd2Numbers/FujimuraKAdd2Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/FujimuraKGitHubChallenge/FujimuraKAdd2Numbers/FujimuraKAdd2Numbers.csproj",
+        "projectUniqueName": "/Users/manuel/Documents/GitRepository/FujimuraKAdd2Numbers/FujimuraKAdd2Numbers.csproj",
         "projectName": "FujimuraKAdd2Numbers",
-        "projectPath": "/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/FujimuraKGitHubChallenge/FujimuraKAdd2Numbers/FujimuraKAdd2Numbers.csproj",
-        "packagesPath": "/Users/kennethfujimura/.nuget/packages/",
-        "outputPath": "/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/FujimuraKGitHubChallenge/FujimuraKAdd2Numbers/obj/",
+        "projectPath": "/Users/manuel/Documents/GitRepository/FujimuraKAdd2Numbers/FujimuraKAdd2Numbers.csproj",
+        "packagesPath": "/Users/manuel/.nuget/packages/",
+        "outputPath": "/Users/manuel/Documents/GitRepository/FujimuraKAdd2Numbers/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/kennethfujimura/.nuget/NuGet/NuGet.Config"
+          "/Users/manuel/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
