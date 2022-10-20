@@ -2,8 +2,9 @@
 //10-20-2022
 //GitHub Challenge # 2 - Add 2 Numbers
 //Console program greets the user, takes in two numbers as inputs, converts those numbers to integers, adds the numbers, and returns the sum value to the user.
-//Peer Review by:
-
+//Peer Review by: Manuel Leyva
+//I like how there is validation for everything, so if they try to input something there not supposed too
+//it will show it as an invalid choice, other than that the code looks and runs great as well, great job
 
 Console.Clear();
 Console.WriteLine("Let's add two numbers!");
